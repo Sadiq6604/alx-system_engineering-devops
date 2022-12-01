@@ -1,2 +1,2 @@
 #!/bim/bash
-ls -samp 
+ls -xamp 
