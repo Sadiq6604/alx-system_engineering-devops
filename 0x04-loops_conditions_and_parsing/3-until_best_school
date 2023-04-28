@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# displaying until loop for  Best School 10 times
+# displaying until loop for Best School 10 times
 COUNT=0
 until [ "$COUNT" -eq 10 ]; do
       echo "Best School"
