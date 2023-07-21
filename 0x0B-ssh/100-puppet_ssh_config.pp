@@ -1,4 +1,4 @@
-Setting up my client config file to ensure connection to server without server and use ~/.ssh/school as key
+# Setting up my client config file to ensure connection to server without server and use ~/.ssh/school as key
 include stdlib
 
 file_line { 'Turn off passwd auth':
